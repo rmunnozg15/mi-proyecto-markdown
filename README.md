@@ -31,7 +31,6 @@ Bienvenido al repositorio. Este documento demuestra la aplicación práctica de 
 Para declarar una variable en JavaScript:
 `const miVariable = "Markdown";`
 
-```markdown
 // Bloque de código multi-línea
 function saludar(nombre) {
   console.log(`¡Hola, ${nombre}!`);
