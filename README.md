@@ -36,7 +36,7 @@ Para declarar una variable en JavaScript:
 function saludar(nombre) {
   console.log(`¡Hola, ${nombre}!`);
 }
-saludar("Estudiante");
+`saludar("Estudiante");`
 
 ---
 
